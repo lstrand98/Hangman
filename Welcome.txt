@@ -1,0 +1,5 @@
+Hello user! Let's play Hangman! The computer will randomly generate a word, and you will have to guess the word by inputting letters. Letters cannot be
+repeated; if a letter is repeated, it will not count against you. The program will let you know, though, when a letter is repeated. If the letter is
+in the hidden/randomly generated word, it will appear in its appropriate index within the word. If the letter guessed is incorrect, a body part of the
+hangman will be displayed. The game is over once the word is guessed and all letters are revealed (win) or when all the body parts of the hangman are displayed (lose).
+Good luck, and happy guessing!
