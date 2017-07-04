@@ -1,0 +1,2 @@
+# Hangman-Game
+This simulates the game of Hangman, coded in Python. The program randomly generates a word to be guessed from the 'Words.txt'. Hangman class utilizes methods such as reading/writing to a file, sorting, initializing and changing arrays, displaying the hangman visual, etc. Letters, the second class, is responsible for displaying the word as letters are correctly guessed, tracking the game's progress, and so on. The user only gets six wrong guesses until they lose; repeat guesses/letters do not count against the user.
